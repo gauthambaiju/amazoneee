@@ -191,9 +191,13 @@ let middlePart = "";
                                         <div class="price-wrapper">
                                             <div class="price-container">
                                                 <span id="p1">&#8377;</span>
-                                                <span id="p2">${discountedPrice.toLocaleString()}</span>
+                                                <span id="p2">${Number(
+                                                    discountedPrice
+                                                ).toLocaleString()}</span>
                                                 <span id="p3">M.R.P:</span>
-                                                <span id="p4">&#8377;${originalPrice.toLocaleString()}</span>
+                                                <span id="p4">&#8377;${Number(
+                                                    originalPrice
+                                                ).toLocaleString()}</span>
                                                 <span id="space"></span>
                                                 <span id="p5">(35% off)</span>
                                             </div>
