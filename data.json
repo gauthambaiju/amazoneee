@@ -6,19 +6,29 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "9999",
             "discountedPrice": "6499",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Today by 10 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.3"
-        }, 
+        },
         {
             "title": "Samsung Original 25W Type-C Travel Adaptor Without Cable, White",
             "numReviews": "39032",
             "numBuys": "10K+ bought in past month",
             "originalPrice": "1699",
             "discountedPrice": "999",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Today by 10 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/512UVkoMMEL._AC_UL480_FMwebp_QL65_.jpg",
@@ -30,7 +40,12 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "24499",
             "discountedPrice": "13999",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": true,
             "imagePath": "https://m.media-amazon.com/images/I/81nt-RGKpyL._AC_UL480_FMwebp_QL65_.jpg",
@@ -42,10 +57,15 @@
             "numBuys": "8K+ bought in past month",
             "originalPrice": "1699",
             "discountedPrice": "999",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Today by 10 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/81nt-RGKpyL._AC_UL480_FMwebp_QL65_.jpg",
+            "imagePath": "https://m.media-amazon.com/images/I/71Gu1ib5-RL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.5"
         },
         {
@@ -54,10 +74,15 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "2699",
             "discountedPrice": "1059",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/81nt-RGKpyL._AC_UL480_FMwebp_QL65_.jpg",
+            "imagePath": "https://m.media-amazon.com/images/I/61fkOHNmzpL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "3.5"
         },
         {
@@ -66,7 +91,12 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "9999",
             "discountedPrice": "6499",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Today by 10 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UL480_FMwebp_QL65_.jpg",
@@ -78,7 +108,12 @@
             "numBuys": "10K+ bought in past month",
             "originalPrice": "1699",
             "discountedPrice": "999",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Today by 10 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/512UVkoMMEL._AC_UL480_FMwebp_QL65_.jpg",
@@ -90,7 +125,12 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "24499",
             "discountedPrice": "13999",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": true,
             "imagePath": "https://m.media-amazon.com/images/I/81nt-RGKpyL._AC_UL480_FMwebp_QL65_.jpg",
@@ -102,7 +142,12 @@
             "numBuys": "8K+ bought in past month",
             "originalPrice": "1699",
             "discountedPrice": "999",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Today by 10 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71Gu1ib5-RL._AC_UL480_FMwebp_QL65_.jpg",
@@ -114,7 +159,12 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "2699",
             "discountedPrice": "1059",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61fkOHNmzpL._AC_UL480_FMwebp_QL65_.jpg",
@@ -128,7 +178,12 @@
             "numBuys": "10K+ bought in past month",
             "originalPrice": "1900",
             "discountedPrice": "1589",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Tomorrow by 12 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/21rFLTV3tML._AC_UL480_FMwebp_QL65_.jpg",
@@ -140,7 +195,12 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "69900",
             "discountedPrice": "60100",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UL480_FMwebp_QL65_.jpg",
@@ -152,7 +212,12 @@
             "numBuys": "4K+ bought in past month",
             "originalPrice": "69900",
             "discountedPrice": "60300",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UL480_FMwebp_QL65_.jpg",
@@ -164,7 +229,12 @@
             "numBuys": "1K+ bought in past month",
             "originalPrice": "59900",
             "discountedPrice": "49499",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Tomorrow by 12 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61FMZ9rSZUL._AC_UL480_FMwebp_QL65_.jpg",
@@ -176,7 +246,12 @@
             "numBuys": "1K+ bought in past month",
             "originalPrice": "69900",
             "discountedPrice": "60500",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Tomorrow by 12 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71nvkHnPpZL._AC_UL480_FMwebp_QL65_.jpg",
@@ -188,7 +263,12 @@
             "numBuys": "10K+ bought in past month",
             "originalPrice": "1900",
             "discountedPrice": "1589",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Tomorrow by 12 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/21rFLTV3tML._AC_UL480_FMwebp_QL65_.jpg",
@@ -200,7 +280,12 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "69900",
             "discountedPrice": "60100",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UL480_FMwebp_QL65_.jpg",
@@ -212,7 +297,12 @@
             "numBuys": "4K+ bought in past month",
             "originalPrice": "69900",
             "discountedPrice": "60300",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UL480_FMwebp_QL65_.jpg",
@@ -224,7 +314,12 @@
             "numBuys": "1K+ bought in past month",
             "originalPrice": "59900",
             "discountedPrice": "49499",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Tomorrow by 12 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 12 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61FMZ9rSZUL._AC_UL480_FMwebp_QL65_.jpg",
@@ -236,7 +331,12 @@
             "numBuys": "1K+ bought in past month",
             "originalPrice": "69900",
             "discountedPrice": "60500",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Tomorrow by 12 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71nvkHnPpZL._AC_UL480_FMwebp_QL65_.jpg",
@@ -250,7 +350,12 @@
             "numBuys": "3K+ bought in past month",
             "originalPrice": "20999",
             "discountedPrice": "17997",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": true,
             "imagePath": "https://m.media-amazon.com/images/I/61Io5-ojWUL._AC_UL480_FMwebp_QL65_.jpg",
@@ -262,10 +367,15 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "32999",
             "discountedPrice": "29498",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/61Io5-ojWUL._AC_UL480_FMwebp_QL65_.jpg",
+            "imagePath": "https://m.media-amazon.com/images/I/616wnQmPQ-L._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.3"
         },
         {
@@ -274,7 +384,12 @@
             "numBuys": "1K+ bought in past month",
             "originalPrice": "32999",
             "discountedPrice": "29998",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61NbiB1GU-L._AC_UL480_FMwebp_QL65_.jpg",
@@ -286,7 +401,12 @@
             "numBuys": "2K+ bought in past month",
             "originalPrice": "26999",
             "discountedPrice": "23998",
-            "deliveryDetails": "FREE delivery Thu, 3 Jul",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61g1pqSjAhL._AC_UL480_FMwebp_QL65_.jpg",
@@ -298,7 +418,12 @@
             "numBuys": "3K+ bought in past month",
             "originalPrice": "19999",
             "discountedPrice": "17997",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Tomorrow by 12 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": true,
             "imagePath": "https://m.media-amazon.com/images/I/5155PFA2N+L._AC_UL480_FMwebp_QL65_.jpg",
@@ -310,7 +435,12 @@
             "numBuys": "3K+ bought in past month",
             "originalPrice": "20999",
             "discountedPrice": "17997",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61Io5-ojWUL._AC_UL480_FMwebp_QL65_.jpg",
@@ -322,10 +452,15 @@
             "numBuys": "5K+ bought in past month",
             "originalPrice": "32999",
             "discountedPrice": "29498",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": true,
-            "imagePath": "https://m.media-amazon.com/images/I/61Io5-ojWUL._AC_UL480_FMwebp_QL65_.jpg",
+            "imagePath": "https://m.media-amazon.com/images/I/616wnQmPQ-L._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.6"
         },
         {
@@ -334,7 +469,12 @@
             "numBuys": "1K+ bought in past month",
             "originalPrice": "32999",
             "discountedPrice": "29998",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61NbiB1GU-L._AC_UL480_FMwebp_QL65_.jpg",
@@ -346,7 +486,12 @@
             "numBuys": "2K+ bought in past month",
             "originalPrice": "26999",
             "discountedPrice": "23998",
-            "deliveryDetails": "FREE delivery Thu, 3 Jul",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
             "isPrime": true,
             "isLimited": true,
             "imagePath": "https://m.media-amazon.com/images/I/61g1pqSjAhL._AC_UL480_FMwebp_QL65_.jpg",
@@ -358,7 +503,12 @@
             "numBuys": "3K+ bought in past month",
             "originalPrice": "19999",
             "discountedPrice": "17997",
-            "deliveryDetails": "FREE delivery Mon, 30 Jun\nOr fastest delivery Tomorrow by 12 pm",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
             "isPrime": true,
             "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/5155PFA2N+L._AC_UL480_FMwebp_QL65_.jpg",
