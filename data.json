@@ -1,23 +1,6 @@
 {
     "Samsung": [
         {
-            "title": "Samsung Galaxy M05 (Mint Green, 4GB RAM, 64GB Storage) – 50MP Dual Camera | 6.7\" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Years OS Upgrades & 4 Years Security Updates | Charger Not Included",
-            "numReviews": "4197",
-            "numBuys": "5K+ bought in past month",
-            "originalPrice": "9999",
-            "discountedPrice": "6499",
-            "deliveryDetails": [
-                "FREE delivery", 
-                "Mon 30 Jun", 
-                "Or fastest delivery",
-                "Today by 10 pm"
-            ],
-            "isPrime": true,
-            "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.3"
-        },
-        {
             "title": "Samsung Original 25W Type-C Travel Adaptor Without Cable, White",
             "numReviews": "39032",
             "numBuys": "10K+ bought in past month",
@@ -29,10 +12,41 @@
                 "Or fastest delivery",
                 "Today by 10 pm"
             ],
-            "isPrime": true,
-            "isLimited": false,
+            "isPrime": false,
             "imagePath": "https://m.media-amazon.com/images/I/512UVkoMMEL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.1"
+            "rating": "4.0"
+        },
+        {
+            "title": "Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) – 50MP Dual Camera | 6.7\" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Years OS Upgrades & 4 Years Security Updates | Charger Not Included",
+            "numReviews": "4197",
+            "numBuys": "5K+ bought in past month",
+            "originalPrice": "9999",
+            "discountedPrice": "6499",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
+            "isPrime": true,
+            "imagePath": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.5"
+        },
+        {
+            "title": "Samsung Original 25W Type-C Travel Adaptor Without Cable, Black",
+            "numReviews": "39032",
+            "numBuys": "8K+ bought in past month",
+            "originalPrice": "1699",
+            "discountedPrice": "999",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
+            "isPrime": false,
+            "imagePath": "https://m.media-amazon.com/images/I/71Gu1ib5-RL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "3.5"
         },
         {
             "title": "Samsung Galaxy M35 5G (Daybreak Blue,6GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",
@@ -47,26 +61,8 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": true,
             "imagePath": "https://m.media-amazon.com/images/I/81nt-RGKpyL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "3.9"
-        },
-        {
-            "title": "Samsung Original 25W Type-C Travel Adaptor Without Cable, Black",
-            "numReviews": "39032",
-            "numBuys": "8K+ bought in past month",
-            "originalPrice": "1699",
-            "discountedPrice": "999",
-            "deliveryDetails": [
-                "FREE delivery", 
-                "Mon 30 Jun", 
-                "Or fastest delivery",
-                "Today by 10 pm"
-            ],
-            "isPrime": true,
-            "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/71Gu1ib5-RL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.5"
+            "rating": "3.5"
         },
         {
             "title": "Samsung EVO Plus 128GB Micro SDXC w/SD Adaptor, Up-to 160MB/s, Expanded Storage for Gaming Devices, Android Tablets and Smart Phones, Memory Card, MB-MC128SA/IN",
@@ -81,7 +77,6 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61fkOHNmzpL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "3.5"
         },
@@ -97,28 +92,10 @@
                 "Or fastest delivery",
                 "Today by 10 pm"
             ],
-            "isPrime": true,
-            "isLimited": false,
+            "isPrime": false,
             "imagePath": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "3.3"
+            "rating": "3.5"
         }, 
-        {
-            "title": "Samsung Original 25W Type-C Travel Adaptor Without Cable, White",
-            "numReviews": "39032",
-            "numBuys": "10K+ bought in past month",
-            "originalPrice": "1699",
-            "discountedPrice": "999",
-            "deliveryDetails": [
-                "FREE delivery", 
-                "Mon 30 Jun", 
-                "Or fastest delivery",
-                "Today by 10 pm"
-            ],
-            "isPrime": true,
-            "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/512UVkoMMEL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.3"
-        },
         {
             "title": "Samsung Galaxy M35 5G (Daybreak Blue,6GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",
             "numReviews": "10916",
@@ -132,9 +109,24 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": true,
             "imagePath": "https://m.media-amazon.com/images/I/81nt-RGKpyL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.0"
+        },
+        {
+            "title": "Samsung Original 25W Type-C Travel Adaptor Without Cable, White",
+            "numReviews": "39032",
+            "numBuys": "10K+ bought in past month",
+            "originalPrice": "1699",
+            "discountedPrice": "999",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
+            "isPrime": false,
+            "imagePath": "https://m.media-amazon.com/images/I/512UVkoMMEL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.5"
         },
         {
             "title": "Samsung Original 25W Type-C Travel Adaptor Without Cable, Black",
@@ -149,7 +141,6 @@
                 "Today by 10 pm"
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71Gu1ib5-RL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.0"
         },
@@ -166,9 +157,8 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61fkOHNmzpL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "3.3"
+            "rating": "3.5"
         }
     ],
     "Apple": [
@@ -185,9 +175,8 @@
                 "Today by 10 pm"
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/21rFLTV3tML._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "3.0"
+            "rating": "5.0"
         },
         {
             "title": "Apple iPhone 15 (128 GB) - Pink",
@@ -201,10 +190,9 @@
                 "",
                 ""
             ],
-            "isPrime": true,
-            "isLimited": false,
+            "isPrime": false,
             "imagePath": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.2"
+            "rating": "4.0"
         },
         {
             "title": "Apple iPhone 15 (128 GB) - Blue",
@@ -219,7 +207,6 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.0"
         },
@@ -236,7 +223,86 @@
                 "Today by 10 pm"
             ],
             "isPrime": true,
-            "isLimited": false,
+            "imagePath": "https://m.media-amazon.com/images/I/61FMZ9rSZUL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.5"
+        },
+        {
+            "title": "Apple iPhone 15 (128 GB) - Green",
+            "numReviews": "4180",
+            "numBuys": "1K+ bought in past month",
+            "originalPrice": "69900",
+            "discountedPrice": "60500",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
+            "isPrime": false,
+            "imagePath": "https://m.media-amazon.com/images/I/71nvkHnPpZL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.5"
+        },
+        {
+            "title": "Apple 20W USB-C Power Adapter (for iPhone, iPad & AirPods)",
+            "numReviews": "91218",
+            "numBuys": "10K+ bought in past month",
+            "originalPrice": "1900",
+            "discountedPrice": "1589",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 10 pm"
+            ],
+            "isPrime": true,
+            "imagePath": "https://m.media-amazon.com/images/I/21rFLTV3tML._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.0"
+        },
+        {
+            "title": "Apple iPhone 15 (128 GB) - Pink",
+            "numReviews": "4180",
+            "numBuys": "5K+ bought in past month",
+            "originalPrice": "69900",
+            "discountedPrice": "60100",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
+            "isPrime": true,
+            "imagePath": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "3.5"
+        },
+        {
+            "title": "Apple iPhone 15 (128 GB) - Blue",
+            "numReviews": "4180",
+            "numBuys": "4K+ bought in past month",
+            "originalPrice": "69900",
+            "discountedPrice": "60300",
+            "deliveryDetails": [
+                "FREE delivery Thu",
+                "3 Jul",
+                "",
+                ""
+            ],
+            "isPrime": false,
+            "imagePath": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.5"
+        },
+        {
+            "title": "iPhone 16e 128 GB: Built for Apple Intelligence, A18 Chip, Supersized Battery Life, 48MP Fusion. Camera, 15.40 cm (6.1″) Super Retina XDR Display; Black",
+            "numReviews": "268",
+            "numBuys": "1K+ bought in past month",
+            "originalPrice": "59900",
+            "discountedPrice": "49499",
+            "deliveryDetails": [
+                "FREE delivery", 
+                "Mon 30 Jun", 
+                "Or fastest delivery",
+                "Today by 12 pm"
+            ],
+            "isPrime": true,
             "imagePath": "https://m.media-amazon.com/images/I/61FMZ9rSZUL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.5"
         },
@@ -253,94 +319,8 @@
                 "Today by 10 pm"
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/71nvkHnPpZL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.6"
-        },
-        {
-            "title": "Apple 20W USB-C Power Adapter (for iPhone, iPad & AirPods)",
-            "numReviews": "91218",
-            "numBuys": "10K+ bought in past month",
-            "originalPrice": "1900",
-            "discountedPrice": "1589",
-            "deliveryDetails": [
-                "FREE delivery", 
-                "Mon 30 Jun", 
-                "Or fastest delivery",
-                "Today by 10 pm"
-            ],
-            "isPrime": true,
-            "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/21rFLTV3tML._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.0"
-        },
-        {
-            "title": "Apple iPhone 15 (128 GB) - Pink",
-            "numReviews": "4180",
-            "numBuys": "5K+ bought in past month",
-            "originalPrice": "69900",
-            "discountedPrice": "60100",
-            "deliveryDetails": [
-                "FREE delivery Thu",
-                "3 Jul",
-                "",
-                ""
-            ],
-            "isPrime": true,
-            "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "3.3"
-        },
-        {
-            "title": "Apple iPhone 15 (128 GB) - Blue",
-            "numReviews": "4180",
-            "numBuys": "4K+ bought in past month",
-            "originalPrice": "69900",
-            "discountedPrice": "60300",
-            "deliveryDetails": [
-                "FREE delivery Thu",
-                "3 Jul",
-                "",
-                ""
-            ],
-            "isPrime": true,
-            "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.8"
-        },
-        {
-            "title": "iPhone 16e 128 GB: Built for Apple Intelligence, A18 Chip, Supersized Battery Life, 48MP Fusion. Camera, 15.40 cm (6.1″) Super Retina XDR Display; Black",
-            "numReviews": "268",
-            "numBuys": "1K+ bought in past month",
-            "originalPrice": "59900",
-            "discountedPrice": "49499",
-            "deliveryDetails": [
-                "FREE delivery", 
-                "Mon 30 Jun", 
-                "Or fastest delivery",
-                "Today by 12 pm"
-            ],
-            "isPrime": true,
-            "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/61FMZ9rSZUL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.3"
-        },
-        {
-            "title": "Apple iPhone 15 (128 GB) - Green",
-            "numReviews": "4180",
-            "numBuys": "1K+ bought in past month",
-            "originalPrice": "69900",
-            "discountedPrice": "60500",
-            "deliveryDetails": [
-                "FREE delivery", 
-                "Mon 30 Jun", 
-                "Or fastest delivery",
-                "Today by 10 pm"
-            ],
-            "isPrime": true,
-            "isLimited": false,
-            "imagePath": "https://m.media-amazon.com/images/I/71nvkHnPpZL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.2"
         }
     ],
     "OnePlus": [
@@ -356,8 +336,7 @@
                 "",
                 ""
             ],
-            "isPrime": true,
-            "isLimited": true,
+            "isPrime": false,
             "imagePath": "https://m.media-amazon.com/images/I/61Io5-ojWUL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.5"
         },
@@ -374,9 +353,8 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/616wnQmPQ-L._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.3"
+            "rating": "4.0"
         },
         {
             "title": "OnePlus Nord 4 5G (Obsidian Midnight, 8GB RAM, 256GB Storage) | Lifetime Display Warranty | Qualcomm® Snapdragon™ 7 Plus Gen 3 | ANTUTU Score 1.5Mn+ | OnePlus AI",
@@ -391,9 +369,8 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61NbiB1GU-L._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.7"
+            "rating": "4.0"
         },
         {
             "title": "OnePlus Nord CE4 (Dark Chrome, 8GB RAM, 256GB Storage) | Lifetime Display Warranty | Qualcomm® Snapdragon™ 7 Gen 3 - Best in The Segment | 50 MP Camera with OIS",
@@ -408,9 +385,8 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61g1pqSjAhL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.3"
+            "rating": "4.5"
         },
         {
             "title": "OnePlus Nord CE4 Lite 5G (Mega Blue, 8GB RAM, 128GB Storage)",
@@ -424,10 +400,9 @@
                 "Or fastest delivery",
                 "Today by 10 pm"
             ],
-            "isPrime": true,
-            "isLimited": true,
+            "isPrime": false,
             "imagePath": "https://m.media-amazon.com/images/I/5155PFA2N+L._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.8"
+            "rating": "5.0"
         },
         {
             "title": "OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 128GB Storage) | Lifetime Display Warranty | 5500 mAh Battery, 80W SUPERVOOC and Reverse Charging | 50MP Camera with OIS | 120Hz AMOLED Display",
@@ -442,7 +417,6 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": false,
             "imagePath": "https://m.media-amazon.com/images/I/61Io5-ojWUL._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.0"
         },
@@ -459,9 +433,8 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": true,
             "imagePath": "https://m.media-amazon.com/images/I/616wnQmPQ-L._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "4.6"
+            "rating": "4.5"
         },
         {
             "title": "OnePlus Nord 4 5G (Obsidian Midnight, 8GB RAM, 256GB Storage) | Lifetime Display Warranty | Qualcomm® Snapdragon™ 7 Plus Gen 3 | ANTUTU Score 1.5Mn+ | OnePlus AI",
@@ -475,8 +448,7 @@
                 "",
                 ""
             ],
-            "isPrime": true,
-            "isLimited": false,
+            "isPrime": false,
             "imagePath": "https://m.media-amazon.com/images/I/61NbiB1GU-L._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "4.0"
         },
@@ -493,9 +465,8 @@
                 ""
             ],
             "isPrime": true,
-            "isLimited": true,
             "imagePath": "https://m.media-amazon.com/images/I/61g1pqSjAhL._AC_UL480_FMwebp_QL65_.jpg",
-            "rating": "3.3"
+            "rating": "3.5"
         },
         {
             "title": "OnePlus Nord CE4 Lite 5G (Mega Blue, 8GB RAM, 128GB Storage)",
@@ -509,8 +480,7 @@
                 "Or fastest delivery",
                 "Today by 10 pm"
             ],
-            "isPrime": true,
-            "isLimited": false,
+            "isPrime": false,
             "imagePath": "https://m.media-amazon.com/images/I/5155PFA2N+L._AC_UL480_FMwebp_QL65_.jpg",
             "rating": "3.5"
         }
