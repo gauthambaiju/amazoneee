@@ -41,6 +41,10 @@ const container = document.querySelector(
     ".main-content .right .right-inner .right-inner-2"
 );
 
+const mobileContainer = document.querySelector(
+    ".mobile-view-container .mobile-main .main-content"
+);
+
 const stars = document.querySelectorAll(
     ".main-content .rating-container .stars"
 );
@@ -117,6 +121,52 @@ const lastPart = `<div class="pagination-container">
                         <p>Visit the help section <span style="color: black;">or</span> contact us</p>
                     </div>
                 </div>`;
+
+const mobileFirstPart = `<div class="filter-details-container">
+                            <div class="filter-details-wrapper">
+                                <div class="filter-details">
+                                    <div class="filter-left">
+                                        <div class="prime-container">
+                                            <span>
+                                                <a class="prime">
+                                                    <span class="prime-icon">
+                                                        <i></i>
+                                                    </span>
+                                                    <span class="toggle-icon"></span>
+                                                </a>
+                                            </span>
+                                        </div>
+                                        <div class="brand-container">
+                                            <span>
+                                                <a class="brand">
+                                                    <span class="brand-name">Samsung</span>
+                                                </a>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="filter-right">
+                                        <span class="filter-wrapper">
+                                            <div class="filter-button-wrapper">
+                                                <button class="filter-button">
+                                                    <div class="filter-button-content">
+                                                        <span class="one">Filters</span>
+                                                        <span class="two">(2)</span>
+                                                        <span class="down-arrow"></span>
+                                                    </div>
+                                                </button>
+                                            </div>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="product-details-text">
+                            <div class="product-text-container">
+                                <span class="product-text">Check each product page for other buying options.</span>
+                            </div>
+                        </div>`;
+
+let mobileLastPart = "";
 
 (async function () {
     try {
@@ -229,6 +279,125 @@ const lastPart = `<div class="pagination-container">
         }
     }
 
+    function setMobileDisplayData() {
+        for (let productDetails of displayData) {
+            let {
+                title,
+                numReviews,
+                numBuys,
+                originalPrice,
+                discountedPrice,
+                deliveryDetails,
+                isPrime,
+                imagePath,
+                rating,
+            } = productDetails;
+
+            numReviews = Math.round(Number(numReviews) / 100) / 10;
+            discountedPrice = Number(discountedPrice);
+            originalPrice = Number(originalPrice);
+            let discountPercentage = Math.ceil(
+                ((originalPrice - discountedPrice) / originalPrice) * 100
+            );
+            discountedPrice = discountedPrice.toLocaleString();
+            originalPrice = originalPrice.toLocaleString();
+
+            mobileLastPart += `<div class="card-container">
+                                    <div class="card-wrapper">
+                                        <div class="card-wrapper-2">
+                                            <div class="card">
+                                                <div class="card-left">
+                                                    <div class="img-container">
+                                                        <div class="data-category">
+                                                            <div class="icon-container">
+                                                                <div class="icon">
+                                                                    <img alt="More like this" src="https://m.media-amazon.com/images/I/01rrzVoKd5L.svg" height="24px" width="24px">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="img-wrapper">
+                                                            <div class="img-wrapper-2">
+                                                                <img src="${imagePath}" alt="">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="card-right">
+                                                    <div class="desc-container">
+                                                        <div class="desc">
+                                                            <h2 class="title">${title}</h2>
+                                                            <div class="review-container">
+                                                                <div class="review-top">
+                                                                    <span class="rating">${rating}</span>
+                                                                    <i class="stars"></i>
+                                                                    <span class="num-ratings">(${numReviews}K)</span>
+                                                                </div>
+                                                                <div class="review-bottom">
+                                                                    <span>${numBuys}</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="price-container">
+                                                                <div class="price-top">
+                                                                    <span class="one">
+                                                                        <span class="rupees">₹</span>
+                                                                        <span class="discounted-price">${discountedPrice}</span>
+                                                                    </span>
+                                                                    <div class="two">
+                                                                        <span class="text-1">M.R.P:</span>
+                                                                        <span class="text-2">₹${originalPrice}</span>
+                                                                    </div>
+                                                                    <span class="three">(${discountPercentage}% off)</span>
+                                                                </div>
+                                                                <div class="price-bottom">
+                                                                    <span>Save extra with No Cost EMI</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="delivery-container">
+                                                                <div class="one">
+                                                                    ${
+                                                                        isPrime
+                                                                            ? `<span class="prime-logo-container">
+                                                                        <i class="prime-logo"></i>
+                                                                    </span>`
+                                                                            : ``
+                                                                    }
+                                                                </div>
+                                                                <div class="two">
+                                                                    <span class="text">
+                                                                        <span class="text-1">${
+                                                                            deliveryDetails[0]
+                                                                        }</span>
+                                                                        <span class="text-2">${
+                                                                            deliveryDetails[1]
+                                                                        }</span>
+                                                                    </span>
+                                                                </div>
+                                                                <div class="three">
+                                                                    <span class="text">
+                                                                        <span class="text-1">${
+                                                                            deliveryDetails[2]
+                                                                        }</span>
+                                                                        <span class="text-2">${
+                                                                            deliveryDetails[3]
+                                                                        }</span>
+                                                                    </span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="cart-btn-container">
+                                                                <button class="cart-btn">
+                                                                    <span>Add to cart</span>
+                                                                </button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>`;
+        }
+    }
+
     function filterDisplayData() {
         displayData = [...displayDataCopy];
 
@@ -262,9 +431,12 @@ const lastPart = `<div class="pagination-container">
 
     updateDisplayData();
 
+    // for mobile
+    setMobileDisplayData();
+    mobileContainer.innerHTML = `${mobileFirstPart}${mobileLastPart}`;
+
     brands.forEach((brand) => {
         brand.addEventListener("change", (event) => {
-            console.log("workinggggg");
             const label = brand.nextElementSibling;
             if (event.target.checked) {
                 filters.brands.add(event.target.value);
